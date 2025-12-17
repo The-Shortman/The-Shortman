@@ -3,7 +3,7 @@ _(A.K.A The-Shortman, Shortman, or just "Short")_
 
 ## About me
 
-I'm an amteur programmer and an avid computer hardware enthusiast from the UK.
+I'm an amateur programmer and an avid computer hardware enthusiast from the UK.
 
 ### In Academia
 
@@ -14,6 +14,8 @@ I am a Physics undergraduate at University, where I use Python to analyse data.
 I work on Minecraft modpacks in my free time for fun:
 - [Create: Astral](https://github.com/Laskyyy/Create-Astral), for which I designed the main menu, refactored and standardised the codebase in mid-2025, and now continue to fix bugs and improve developer experience for the whole team.
 - My own modpack, [Planets and Portals 3](https://github.com/The-Shortman/planets-and-portals-3), for which I am the sole programmer and designer.
+
+I use JavaScript in KubeJS, work with Minecraft datapacks, and have used GitHub Actions to automatically build releases.
 
 ## How to reach me
 
