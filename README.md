@@ -17,6 +17,15 @@ I work on Minecraft modpacks in my free time for fun:
 
 I use JavaScript in KubeJS, work with Minecraft datapacks, and have used GitHub Actions to automatically build releases.
 
+I also have experience in server management and software deployment with Docker, as I frequently tinker with my homelab, currently consisting of three machines on two locations, all communicating over my Tailscale network.
+
+I have deployed:
+
+- An instance of [Headscale](https://headscale.net) to coordinate my Tailnet.
+- An instance of [copyparty](https://github.com/9001/copyparty) for a personal file server and private filesharing site.
+- An instance of [Red Discordbot](https://discord.red) to help with automated management of the Create: Astral Discord server.
+- [Traefik](https://traefik.io) as a reverse-proxy for my web-hosted services.
+
 ## How to reach me
 
 You can find me frequently chatting in the Create: Astral [Discord server](https://discord.gg/StW3Q5K8dJ).
